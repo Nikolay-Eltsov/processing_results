@@ -1,0 +1,1 @@
+./k6 run -v --out influxdb=http://localhost:8086/myk6db k6_module/exemple/stability.js

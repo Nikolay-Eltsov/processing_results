@@ -1,0 +1,5 @@
+{
+    "users_pg": [
+        { "username_pg": "postgres", "password_pg": "mysecretpassword" }
+    ]
+}

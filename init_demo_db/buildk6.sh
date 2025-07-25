@@ -1,0 +1,1 @@
+xk6 build "v1.0.0"  --with "github.com/grafana/xk6-sql" --with "github.com/grafana/xk6-exec"  --with "github.com/grafana/xk6-sql-driver-postgres"
